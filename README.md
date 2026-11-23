@@ -145,4 +145,3 @@ No testing was performed against real healthcare infrastructure or unauthorized 
 
 The complete security assessment report, including technical findings and supporting screenshots, is available below:
 
-[View Full
