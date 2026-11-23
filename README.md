@@ -144,4 +144,26 @@ No testing was performed against real healthcare infrastructure or unauthorized 
 ## Project Report
 
 The complete security assessment report, including technical findings and supporting screenshots, is available below:
+<img width="960" height="540" alt="WhatsApp Image 2026-11-23 at 9 53 39 PM" src="https://github.com/user-attachments/assets/c97a5e3e-9860-4b8d-aae9-ff526715de54" />
+<img width="960" height="540" alt="WhatsApp Image 2026-11-23" src="https://github.com/user-attachments/assets/25a1cb07-72b7-4ed3-816a-5293ab63defd" />
+<img width="960" height="540" alt="WhatsApp Image 2026-11-23 at 9 53 39" src="https://github.com/user-attachments/assets/013c4ead-7e75-4b76-b8a2-311d994cc14a" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-11-23 at 9 53 40" src="https://github.com/user-attachments/assets/c750a92f-a7f0-41d8-9ad3-155183c2b927" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 40 " src="https://github.com/user-attachments/assets/5888c423-1838-4a06-8ee6-c99f19784f56" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 41 " src="https://github.com/user-attachments/assets/3831aae7-b751-4848-862a-a37948623a83" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 42" src="https://github.com/user-attachments/assets/48da2ad9-feb3-4be9-bc17-52fe656c272b" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 42 " src="https://github.com/user-attachments/assets/2457b177-3301-4f2c-bd6e-c89ba49d5156" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 42 PM" src="https://github.com/user-attachments/assets/d24e0041-2235-459f-af1c-71f9589b7f84" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 43 PM" src="https://github.com/user-attachments/assets/f354195b-2aae-4c9f-afa0-829c2716f8c1" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 43 " src="https://github.com/user-attachments/assets/cf4d05e1-f4fe-428b-ad9d-a9af185a9ccc" />
+<img width="756" height="1008" alt="WhatsApp Image 2026-11-23 at 9 53 44 PM" src="https://github.com/user-attachments/assets/0cc373d5-e559-490e-84f9-4c71ddb5d6bc" />
+<img width="1008" height="756" alt="WhatsApp Image 2026-11-23 at 9 53 45 PM" src="https://github.com/user-attachments/assets/9acc75a7-9c7a-4426-9db2-d894b1854450" />
+<img width="1008" height="756" alt="WhatsApp Image 2026-11-23 at 9 53 45" src="https://github.com/user-attachments/assets/74b7f06e-afc1-4d0d-af95-a97d53e4c867" />
+<img width="1008" height="756" alt="WhatsApp Image 2026-11-23 at 9 53 4" src="https://github.com/user-attachments/assets/530ef71e-5b8c-4223-bb7f-dd951b6bd144" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-23 at 10 42 50 PM" src="https://github.com/user-attachments/assets/4f41e19d-a4ae-48ae-8eac-fc05889a5f68" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-23 at 10 42 51 PM" src="https://github.com/user-attachments/assets/2b30d761-b42e-461b-a9d5-d2f2cecc8740" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-23 at 10 42 50 " src="https://github.com/user-attachments/assets/7855cf54-c639-408f-84cd-ee3719854235" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-23 at 10 42 5" src="https://github.com/user-attachments/assets/04bbbbe6-e010-4313-80c6-3e8f6e15b0e9" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-23 at 10 42" src="https://github.com/user-attachments/assets/8b00fabe-1c6c-468f-ab78-77c33ab2152e" />
+
+
 
